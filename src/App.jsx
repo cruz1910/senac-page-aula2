@@ -19,6 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <h2>My first page in github pages</h2>
       <h3>Um texto legal!</h3>
+      <img src="https://tse1.mm.bing.net/th/id/OIP.DNnlzKW35XwooKWIGswo8AHaJn?rs=1&pid=ImgDetMain&o=7&rm=3" alt="" />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
